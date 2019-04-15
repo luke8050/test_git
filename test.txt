@@ -1,1 +1,2 @@
 master file
+add line 2
