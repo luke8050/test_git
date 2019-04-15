@@ -2,3 +2,4 @@ master file
 add line 2
 master
 add line 3
+add line 4
